@@ -12,3 +12,6 @@ Alıştırma örneği tanımlandı
 
 ## Exercise-4
 Alıştırma örneği tanımlandı
+
+## Exercise-5
+Alıştırma örneği tanımlandı
