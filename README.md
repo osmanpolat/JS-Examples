@@ -13,7 +13,7 @@ Alıştırma örneği tanımlandı
 ## Exercise-4
 Alıştırma örneği tanımlandı
 
-## Exercise-5-6-7
+## Exercise-5-6-7-8
 Alıştırma örneği tanımlandı
 
 
