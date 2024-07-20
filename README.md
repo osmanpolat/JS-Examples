@@ -6,3 +6,6 @@ Alıştırma örneği tanımlandı
 
 ## Exercise-2
 Alıştırma örneği tanımlandı
+
+## Exercise-3
+Alıştırma örneği tanımlandı
